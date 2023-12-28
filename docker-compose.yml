@@ -1,0 +1,25 @@
+version: "3.8"
+services:
+  splat:
+    command: /bin/bash
+    stdin_open: true
+    tty: true
+    build: .
+    image: gaussian-splatting:cuda-11.7
+    network_mode: host
+    environment:
+      - DISPLAY
+    volumes:
+      - type: bind
+        source: /mnt/wslg/.X11-unix
+        target: /tmp/.X11-unix
+      - type: bind
+        source: ../datasets_gs
+        target: /workspace/gaussian-splatting/datasets_gs
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
