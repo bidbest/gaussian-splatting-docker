@@ -1,0 +1,3 @@
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/CudaRasterizer/subbuild/CMakeFiles/cudarasterizer-populate.dir
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/CudaRasterizer/subbuild/CMakeFiles/edit_cache.dir
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/CudaRasterizer/subbuild/CMakeFiles/rebuild_cache.dir

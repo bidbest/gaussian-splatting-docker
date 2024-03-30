@@ -1,0 +1,14 @@
+# Target labels
+ xatlas-populate
+# Source files and their labels
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/xatlas/subbuild/CMakeFiles/xatlas-populate
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/xatlas/subbuild/CMakeFiles/xatlas-populate.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/xatlas/subbuild/CMakeFiles/xatlas-populate-complete.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/xatlas/subbuild/xatlas-populate-prefix/src/xatlas-populate-stamp/xatlas-populate-build.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/xatlas/subbuild/xatlas-populate-prefix/src/xatlas-populate-stamp/xatlas-populate-configure.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/xatlas/subbuild/xatlas-populate-prefix/src/xatlas-populate-stamp/xatlas-populate-download.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/xatlas/subbuild/xatlas-populate-prefix/src/xatlas-populate-stamp/xatlas-populate-install.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/xatlas/subbuild/xatlas-populate-prefix/src/xatlas-populate-stamp/xatlas-populate-mkdir.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/xatlas/subbuild/xatlas-populate-prefix/src/xatlas-populate-stamp/xatlas-populate-patch.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/xatlas/subbuild/xatlas-populate-prefix/src/xatlas-populate-stamp/xatlas-populate-test.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/xatlas/subbuild/xatlas-populate-prefix/src/xatlas-populate-stamp/xatlas-populate-update.rule

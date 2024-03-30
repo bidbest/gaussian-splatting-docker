@@ -1,0 +1,14 @@
+# Target labels
+ nativefiledialog-populate
+# Source files and their labels
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nativefiledialog/subbuild/CMakeFiles/nativefiledialog-populate
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nativefiledialog/subbuild/CMakeFiles/nativefiledialog-populate.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nativefiledialog/subbuild/CMakeFiles/nativefiledialog-populate-complete.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nativefiledialog/subbuild/nativefiledialog-populate-prefix/src/nativefiledialog-populate-stamp/nativefiledialog-populate-build.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nativefiledialog/subbuild/nativefiledialog-populate-prefix/src/nativefiledialog-populate-stamp/nativefiledialog-populate-configure.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nativefiledialog/subbuild/nativefiledialog-populate-prefix/src/nativefiledialog-populate-stamp/nativefiledialog-populate-download.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nativefiledialog/subbuild/nativefiledialog-populate-prefix/src/nativefiledialog-populate-stamp/nativefiledialog-populate-install.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nativefiledialog/subbuild/nativefiledialog-populate-prefix/src/nativefiledialog-populate-stamp/nativefiledialog-populate-mkdir.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nativefiledialog/subbuild/nativefiledialog-populate-prefix/src/nativefiledialog-populate-stamp/nativefiledialog-populate-patch.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nativefiledialog/subbuild/nativefiledialog-populate-prefix/src/nativefiledialog-populate-stamp/nativefiledialog-populate-test.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nativefiledialog/subbuild/nativefiledialog-populate-prefix/src/nativefiledialog-populate-stamp/nativefiledialog-populate-update.rule

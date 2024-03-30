@@ -1,0 +1,14 @@
+# Target labels
+ rapidxml-populate
+# Source files and their labels
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/rapidxml/subbuild/CMakeFiles/rapidxml-populate
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/rapidxml/subbuild/CMakeFiles/rapidxml-populate.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/rapidxml/subbuild/CMakeFiles/rapidxml-populate-complete.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/rapidxml/subbuild/rapidxml-populate-prefix/src/rapidxml-populate-stamp/rapidxml-populate-build.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/rapidxml/subbuild/rapidxml-populate-prefix/src/rapidxml-populate-stamp/rapidxml-populate-configure.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/rapidxml/subbuild/rapidxml-populate-prefix/src/rapidxml-populate-stamp/rapidxml-populate-download.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/rapidxml/subbuild/rapidxml-populate-prefix/src/rapidxml-populate-stamp/rapidxml-populate-install.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/rapidxml/subbuild/rapidxml-populate-prefix/src/rapidxml-populate-stamp/rapidxml-populate-mkdir.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/rapidxml/subbuild/rapidxml-populate-prefix/src/rapidxml-populate-stamp/rapidxml-populate-patch.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/rapidxml/subbuild/rapidxml-populate-prefix/src/rapidxml-populate-stamp/rapidxml-populate-test.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/rapidxml/subbuild/rapidxml-populate-prefix/src/rapidxml-populate-stamp/rapidxml-populate-update.rule

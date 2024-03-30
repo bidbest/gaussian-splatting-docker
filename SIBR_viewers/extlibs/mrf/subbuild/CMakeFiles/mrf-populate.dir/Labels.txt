@@ -1,0 +1,14 @@
+# Target labels
+ mrf-populate
+# Source files and their labels
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/mrf/subbuild/CMakeFiles/mrf-populate
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/mrf/subbuild/CMakeFiles/mrf-populate.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/mrf/subbuild/CMakeFiles/mrf-populate-complete.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/mrf/subbuild/mrf-populate-prefix/src/mrf-populate-stamp/mrf-populate-build.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/mrf/subbuild/mrf-populate-prefix/src/mrf-populate-stamp/mrf-populate-configure.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/mrf/subbuild/mrf-populate-prefix/src/mrf-populate-stamp/mrf-populate-download.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/mrf/subbuild/mrf-populate-prefix/src/mrf-populate-stamp/mrf-populate-install.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/mrf/subbuild/mrf-populate-prefix/src/mrf-populate-stamp/mrf-populate-mkdir.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/mrf/subbuild/mrf-populate-prefix/src/mrf-populate-stamp/mrf-populate-patch.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/mrf/subbuild/mrf-populate-prefix/src/mrf-populate-stamp/mrf-populate-test.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/mrf/subbuild/mrf-populate-prefix/src/mrf-populate-stamp/mrf-populate-update.rule

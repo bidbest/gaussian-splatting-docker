@@ -1,0 +1,14 @@
+# Target labels
+ nanoflann-populate
+# Source files and their labels
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nanoflann/subbuild/CMakeFiles/nanoflann-populate
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nanoflann/subbuild/CMakeFiles/nanoflann-populate.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nanoflann/subbuild/CMakeFiles/nanoflann-populate-complete.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nanoflann/subbuild/nanoflann-populate-prefix/src/nanoflann-populate-stamp/nanoflann-populate-build.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nanoflann/subbuild/nanoflann-populate-prefix/src/nanoflann-populate-stamp/nanoflann-populate-configure.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nanoflann/subbuild/nanoflann-populate-prefix/src/nanoflann-populate-stamp/nanoflann-populate-download.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nanoflann/subbuild/nanoflann-populate-prefix/src/nanoflann-populate-stamp/nanoflann-populate-install.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nanoflann/subbuild/nanoflann-populate-prefix/src/nanoflann-populate-stamp/nanoflann-populate-mkdir.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nanoflann/subbuild/nanoflann-populate-prefix/src/nanoflann-populate-stamp/nanoflann-populate-patch.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nanoflann/subbuild/nanoflann-populate-prefix/src/nanoflann-populate-stamp/nanoflann-populate-test.rule
+/sugar/submodules/gaussian-splatting-docker/SIBR_viewers/extlibs/nanoflann/subbuild/nanoflann-populate-prefix/src/nanoflann-populate-stamp/nanoflann-populate-update.rule
